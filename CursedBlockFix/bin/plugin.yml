@@ -1,0 +1,5 @@
+main: me.HybridPlague.CursedBlockFix.Main
+name: CursedBlockFix
+author: HybridPlague
+version: 1.0
+api-version: 1.13
